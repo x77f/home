@@ -1,3 +1,3 @@
-# Posts
+# খেরোখাতা
 
-For now, this page is empty.
+আজকের মতো শূন্য হাতে ফিরে যাও!
