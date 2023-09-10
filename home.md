@@ -2,5 +2,4 @@
 
 # শুদ্ধ শারাফ
 
-- **[LinkedIn](https://www.linkedin.com/in/shuddhosharaf)**
-- **[GitHub](https://github.com/sudo318)**.
+বিদ্রোহ এবং নিয়ম ভঙ্গের মাঝে যার বসবাস...
