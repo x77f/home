@@ -1,6 +1,4 @@
-# Shuddho Sharaf
-
-Welcome!
+# This is Shuddho Sharaf 🫠
 
 I don't know why or how you are here but I'm glad!
 
