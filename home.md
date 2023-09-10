@@ -1,4 +1,4 @@
-![Comic art of a zombie by Bing AI]("./zombie~2.jpeg")
+<img src="zombie~2.jpeg"></img>
 
 # This is Sudo 🫠
 
