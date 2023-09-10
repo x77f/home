@@ -7,17 +7,30 @@
   <link rel="icon" type="image/x-icon" href="fav.ico">
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@300&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --base-font-size: 16px;
+    font-family: 'Noto Serif Bengali', serif;
+</style>
 </head>
+
 <body>
-  <div id="app">Something is cooking...</div>
+  <div id="app"></div>
   <script>
     window.$docsify = {
       homepage: "home.md",
       loadNavbar: "navbar.md"
     }
   </script>
-  <!-- Docsify v4 -->
+  
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
