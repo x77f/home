@@ -1,6 +1,6 @@
-<img src="zombie~2.jpeg"></img>
+<img src="zombie~2.jpeg" alt="Comic art of a zombie by Bing AI"></img>
 
-# This is Sudo 🫠
+# Shuddho Sharaf
 
 - **[LinkedIn](https://www.linkedin.com/in/shuddhosharaf)**
 - **[GitHub](https://github.com/sudo318)**.
