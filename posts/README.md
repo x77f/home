@@ -1,6 +1,6 @@
 # খেরোখাতা
 
-কেমন হতো, যদি সবকিছু হাতের কাছে থাকতো? সেটাই বোঝার চেষ্টা করছি।
+যাকে বলে ঘনীভবন!
 
 ## আর্টিকেল/প্রশ্নমালা
 
@@ -19,4 +19,4 @@
 - [The Modern JavaScript Tutorial](https://javascript.info)
 - [Better Explained](https://betterexplained.com)
 - [DigitalOcean Blog](https://digitalocean.com/blog)
-- [Coding Horror](https://codinghorror.com)
+- [Coding Horror](https://blog.codinghorror.com)
