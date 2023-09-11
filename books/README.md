@@ -14,4 +14,4 @@
 
 এমনিতে বাংলাদেশে পাওয়া দুষ্কর, তবে লেখক বইটার একটা স্বকীয় [ওয়েবসাইট](https://automatetheboringstuff.com/) তৈরি করে রেখেছেন, যেখানে বিনামূল্যে বইটি পড়া যাবে।
 
-[Automate The Boring Stuff with Python](boring.jpeg)
+![Automate The Boring Stuff with Python](boring.jpeg)
