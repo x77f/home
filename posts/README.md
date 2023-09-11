@@ -15,4 +15,4 @@
 - আগ্রহ যখন ওয়েব নিয়ে: **[MDN Web Docs](https://developers.mozilla.org)**
 - বুঝতে বাধা নেই: **[Better Explained](https://betterexplained.com)**
 - বোকার মতো প্রশ্ন নয়: **[StackExchange](https://stackexchange.com/)**
-- একটি বিশ্বস্ত সূত্র: **[Wikipedia]("https://wikipedia.org")**
+- একটি বিশ্বস্ত সূত্র: **[Wikipedia](https://wikipedia.org)**
