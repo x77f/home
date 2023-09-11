@@ -20,8 +20,8 @@
 - যে শপিংয়ে কোনো বিরক্তি নেই: **[Rokomari](https://rokomari.com)**
 - সাহিত্য যখন উন্মুক্ত: **[আলোর পাঠশালা](https://alorpathshala.org/)**
 - দুর্লভ এবং বিনামূল্যের যত প্রকাশনা:
-  - **[Wikisource Bangla]([https://bn.wikisource.org)**
-  - **[Wikisource English](https://en.wikisource.org)**
+  - **[উইকিসংকলন](https://bn.wikisource.org)**
+  - **[Wikisource](https://en.wikisource.org)**
 - গোটা বিশ্বের আর্কাইভ: **[Internet Archive](https://archive.org)**
 
 ## ইউটিউব থেকে
