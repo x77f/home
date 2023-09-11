@@ -13,6 +13,27 @@
 ## ওয়েবসাইট
 
 - আগ্রহ যখন ওয়েব নিয়ে: **[MDN Web Docs](https://developers.mozilla.org)**
-- বুঝতে বাধা নেই: **[Better Explained](https://betterexplained.com)**
+- বুঝতে হবে: **[Better Explained](https://betterexplained.com)**
 - বোকার মতো প্রশ্ন নয়: **[StackExchange](https://stackexchange.com/)**
-- একটি বিশ্বস্ত সূত্র: **[Wikipedia](https://wikipedia.org)**
+- হারিয়ে যেতে মানা নেই: **[Wikipedia](https://wikipedia.org)**
+- যাকে বলে টেকনিকাল: **[Microsoft Docs](https://learn.microsoft.com/en-us/docs/)**
+
+## ইউটিউব থেকে
+
+- **তথ্যচিত্র**
+  - [Ted-Ed](https://youtube.com/@TEDEd)
+  - [Techquikie](https://youtube.com/@techquickie)
+- **গণিত**
+  - [3Blue1Brown](https://youtube.com/@3blue1brown)
+  - [Chamok Hasan](https://youtube.com/@ChamokHasan)
+  - [Numberphile](https://youtube.com/@numberphile)
+  - [Mathantics](https://youtube.com/@mathantics)
+- **কম্পিউটার**
+  - [Computerphile](https://youtube.com/@Computerphile)
+  - [Ben Eater](https://youtube.com/@BenEater)
+  - [CS50](https://youtube.com/@cs50)
+- **পড়াশোনা**
+  - [Khan Academy](https://youtube.com/@khanacademy)
+  - [OnnoRokom Pathshala](https://youtube.com/@OnnorokomPathshala)
+  - [Learn With Hemel Bhai](https://youtube.com/@Hemel_Bhai)
+  - [Math and Science Nerds](https://youtube.com/@MathScienceNerds)
