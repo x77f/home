@@ -17,6 +17,7 @@
 - বোকার মতো প্রশ্ন নয়: **[StackExchange](https://stackexchange.com/)**
 - হারিয়ে যেতে মানা নেই: **[Wikipedia](https://wikipedia.org)**
 - যাকে বলে টেকনিকাল: **[Microsoft Docs](https://learn.microsoft.com/en-us/docs/)**
+- যে শপিংয়ে কোনো বিরক্তি নেই: **[Rokomari](https://rokomari.com)**
 
 ## ইউটিউব থেকে
 
