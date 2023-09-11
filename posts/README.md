@@ -18,6 +18,11 @@
 - হারিয়ে যেতে মানা নেই: **[Wikipedia](https://wikipedia.org)**
 - যাকে বলে টেকনিকাল: **[Microsoft Docs](https://learn.microsoft.com/en-us/docs/)**
 - যে শপিংয়ে কোনো বিরক্তি নেই: **[Rokomari](https://rokomari.com)**
+- সাহিত্য যখন উন্মুক্ত: **[আলোর পাঠশালা](https://alorpathshala.org/)**
+- দুর্লভ এবং বিনামূল্যের যত প্রকাশনা:
+  - **[উইকিসংকলন]([https://bn.wikisource.org)**
+  - **[Wikisource](https://en.wikisource.org)**
+- গোটা বিশ্বের আর্কাইভ: **[Internet Archive](https://archive.org)**
 
 ## ইউটিউব থেকে
 
