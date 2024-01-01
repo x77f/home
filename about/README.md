@@ -8,6 +8,6 @@
 
 ## আমাকে খুঁজে পাওয়া কঠিন নয়!
 
-- [E-mail](mailto:zero.ground312@passfwd.com)
-- [GitHub](https://github.com/shuddho-sharaf)
-- [LinkedIn](https://www.linkedin.com/in/shuddhosharaf)
+- [আমার মেইলবক্স](mailto:zero.ground312@passfwd.com)
+- [আমার কোডবেস](https://github.com/shuddho-sharaf)
+- [আমার প্রোফাইল](https://www.linkedin.com/in/shuddhosharaf)
