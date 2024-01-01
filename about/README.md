@@ -4,4 +4,10 @@
 
 আমি যথেষ্ট স্বাধীনচেতা। এ কারণে অবশ্য প্রতিদিন মাশুল গুনতে হয়। সে হিসেব আপাতত থাক।
 
-লেখালিখি করতে ভালো লাগে, তাই লিখি। চাইলে [ই-মেইল](mailto:zero.ground312@passfwd.com) করতে পারেন, কোনো কারণ ছাড়াই!
+লেখালিখি করতে ভালো লাগে, তাই লিখি।
+
+## আমাকে খুঁজে পাওয়া কঠিন নয়!
+
+- [E-mail](mailto:zero.ground312@passfwd.com)
+- [GitHub](https://github.com/shuddho-sharaf)
+- [LinkedIn](https://www.linkedin.com/in/shuddhosharaf)
