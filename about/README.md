@@ -4,6 +4,5 @@
 
 ## আমাকে খুঁজে পাওয়া কঠিন নয়!
 
-- [আমার মেইলবক্স](mailto:zero.ground312@passfwd.com)
 - [আমার কোডবেস](https://github.com/shuddho-sharaf)
 - [আমার প্রোফাইল](https://www.linkedin.com/in/shuddhosharaf)
