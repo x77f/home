@@ -5,7 +5,7 @@
 ## Explore CP
 
 - [USACO Guide](https://usaco.guide)
-- [Kattis](https://kattis.com)
+- [Kattis](https://open.kattis.com)
 - [beecrowd](https://judge.beecrowd.com)
 - [HackerRank](https://hackerrank.com)
 - [CSES](https://cses.fi)
