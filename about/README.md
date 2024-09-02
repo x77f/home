@@ -1,8 +1,7 @@
-# আমার সম্পর্কে
+# About Me
 
-আমি একজন সমকৌণিক চিন্তাবিদ। অর্থাৎ, সাধারণ চিন্তাধারা এবং আমার চিন্তাধারা পরস্পরের উপর লম্ব। আমি কোনো ক্ষেত্রেই ততটা পারদর্শী নই, কিন্তু প্রায় সব রকমের ভুল করার ক্ষেত্রে যথেষ্ট দূরদর্শী। ভুলগুলো অনেকটা কলনবিদ্যার ‘শৃঙ্খল নিয়ম’-এর মতো, একটা ভুল ঠিক করতে গিয়ে আরেকটা ভুল হয়ে যায়।
+I'm a clueless idiot, lurking around the web every once in a while. I've had passion for programming. It can be doubted that I still have it. What I can't doubt is the fact that I love computers. Computers always give me the "You're not alone!" feels, and they have always been by my side whenever I needed someone to fix me up.
 
-## আমাকে খুঁজে পাওয়া কঠিন নয়!
+On this website, I'll primarily be sharing whatever I find useful for myself. If you're interested, you're welcome to explore.
 
-- [আমার কোডবেস](https://github.com/shuddho-sharaf)
-- [আমার প্রোফাইল](https://www.linkedin.com/in/shuddhosharaf)
+And you're always invited to visit my [GitHub Repo.](https://github.com/prolhad)
