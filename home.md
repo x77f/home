@@ -1,25 +1,11 @@
-# প্রহ্লাদের খেরোখাতা
+# He's been zombified!
 
-> যদি মনে হয় শূন্য ময়দানে ঘুরতে এসেছেন, তবে বাম দিকের শূন্যস্থান স্পর্শ করুন।
+> Click on the left margin to access the menu.
 
-শূন্য থেকে শুরু,
+## Explore CP
 
-শূন্যের পথে যাত্রা;
-
-মধ্যখানে যুক্ত হলো
-
-নতুন কিছু মাত্রা।
-
-
-বাঁশবাগানের মাথার উপর চাঁদ ওঠে নি আর,
-
-হারিয়ে গেছে ডালিম কুমার, রাজকন্যার হার।
-
-
-নোটন নোটন পায়রাগুলি
-
-আর বাঁধে না ঝোটন,
-
-লড়াই করে মরছি এখন—
-
-ঘোড়ার বেগে ছোটন!
+- [USACO Guide](https://usaco.guide)
+- [Kattis](https://kattis.com)
+- [beecrowd](https://judge.beecrowd.com)
+- [HackerRank](https://hackerrank.com)
+- [CSES](https://cses.fi)
