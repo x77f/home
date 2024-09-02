@@ -1,3 +1,3 @@
 * **[Home](/)**
+* **[Posts](/posts)**
 * **[About](about/)**
-* **[HackMD](https://hackmd.io/@prolhad)**
