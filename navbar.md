@@ -1,3 +1,3 @@
 * **[Home](/)**
-* **[Posts](/posts)**
+* **[Posts](posts/)**
 * **[About](about/)**
