@@ -1,6 +1,6 @@
 # You're usually not welcome, but welcome anyways.
 
-## Explore CP
+## Lately, I'm up to chasing CP, slowly.
 
 <!-- tabs:start -->
 #### **Guides**
