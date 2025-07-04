@@ -1,4 +1,4 @@
-# Hey, it's x77f!
+# You're usually not welcome, but welcome anyways.
 
 ## Explore CP
 
@@ -6,18 +6,16 @@
 #### **Guides**
 - [USACO Guide](https://usaco.guide)
 
-#### **Problems**
-- [Kattis](https://open.kattis.com)
-- [HackerRank](https://hackerrank.com)
-- [CSES](https://cses.fi)
-- [A2OJ Ladder](https://codeforcesladders.firebaseapp.com)
+#### **Platforms**
+| ID | Description |
+| --- | --- |
+| [Kattis](https://open.kattis.com) | Easy to difficult problems |
+| [HackerRank](https://hackerrank.com) | Good for picking up a language through problem-solving |
+| [CSES](https://cses.fi) | A curated set of problems that require use of concepts in mathematics and DSA |
+| [Codeforces](https://codeforces.com) | The ultimate reality |
 
 #### **General Resources**
-- [Competitive Programmer's Handbook (2019)](https://usaco.guide/CPH.pdf)
+- [Competitive Programmer's Handbook (2018)](https://cses.fi/book/book.pdf)
 - [KACTL](https://github.com/kth-competitive-programming/kactl)
-
-#### **C++**
-- [LearnCPP](https://learncpp.com)
-- [cppreference](https://cppreference.com)
 
 <!-- tabs:end -->
