@@ -1,4 +1,5 @@
-# You're usually not welcome, but welcome anyways.
+# You're usually not welcome...
+but welcome anyways. I'm x77f.
 
 ## Lately, I'm up to chasing CP, slowly.
 
